@@ -15,7 +15,6 @@ scalaVersion := "2.11.8"
 val sprayVersion = "1.3.4"
 val akkaVersion = "2.4.17"
 
-
 resolvers ++= Seq(
   "Aliyun" at "http://maven.aliyun.com/nexus/content/groups/public/"
 )
